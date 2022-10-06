@@ -1,0 +1,58 @@
+<style>
+#simple_table {
+	font-family: arial, sans-serif;
+	 border-collapse: collapse; 
+	 width: 100%;
+	background-color: #ffffff;
+	color:black;
+}
+#simple_table td, #simple_table th {
+	 text-align: left;
+	 padding: 8px;
+	 border: 1px solid #808080;
+}
+#simple_table tr:nth-child(even) {
+	background-color: #dddddd;
+}
+#simple_table tr:hover {
+	background-color: #ffff99;
+}
+#simple_table tr > th 
+{
+	background: #1b90bb;
+	 color: #ffffff;
+}
+</style>
+ <table id='simple_table' >
+<tr>
+	<th>Chest No</th>
+	<th>Name</th>
+	<th>Church</th>
+	<th>Result</th>
+</tr>
+
+<tr>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+</tr>
+<tr>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+</tr>
+<tr>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+</tr>
+</table>
+
+
+<p>&nbsp;</p><p>&nbsp;</p><h3 style="text-align: left;">sub heading
+
+
+
